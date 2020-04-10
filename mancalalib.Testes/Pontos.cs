@@ -7,13 +7,22 @@ namespace mancalalib.Testes
 {
     public class Pontos
     {
-        [Fact]
-        public void Test1()
+        Tabuleiro _tabuleiro;
+        public Pontos()
         {
-            Tabuleiro c1= new Tabuleiro();
-            bool valor = c1.retornTrue();
+            _tabuleiro = new Tabuleiro();
+        }
 
-            Assert.False(valor, "o valor tem que ser true");
+        [Fact]
+        public void TestePontosFavor()
+        {
+            Assert.Equal(_tabuleiro._posicoes[6], _tabuleiro.pontosFavor());
+        }
+
+        [Fact]
+        public void TestePontosContra()
+        {
+            Assert.Equal(_tabuleiro._posicoes[13], _tabuleiro.pontosContra());
         }
     }
 }
