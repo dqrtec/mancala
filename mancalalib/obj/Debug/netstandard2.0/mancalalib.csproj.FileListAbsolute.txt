@@ -1,9 +1,0 @@
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\obj\Debug\netstandard2.0\mancalalib.csprojAssemblyReference.cache
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\obj\Debug\netstandard2.0\mancalalib.csproj.CoreCompileInputs.cache
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\obj\Debug\netstandard2.0\mancalalib.AssemblyInfoInputs.cache
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\obj\Debug\netstandard2.0\mancalalib.AssemblyInfo.cs
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\bin\Debug\netstandard2.0\mancalalib.deps.json
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\bin\Debug\netstandard2.0\mancalalib.dll
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\bin\Debug\netstandard2.0\mancalalib.pdb
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\obj\Debug\netstandard2.0\mancalalib.dll
-C:\Users\daniel\Desktop\github\Mancala\mancalalib\obj\Debug\netstandard2.0\mancalalib.pdb
